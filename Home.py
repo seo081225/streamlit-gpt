@@ -13,9 +13,9 @@ Welcome to my FullstackGPT Portfolio!
             
 Here are the apps I made:
             
-- [🤖] [DocumentGPT](/DocumentGPT)
-- [ ] [QuizGPT](/QuizGPT)
-- [ ] [SiteGPT](/SiteGPT)
-- [ ] [AssistGPT](/AssistGPT)
+- [📑] [DocumentGPT](/DocumentGPT)
+- [🙋🏻] [QuizGPT](/QuizGPT)
+- [🌐] [SiteGPT](/SiteGPT)
+- [🤖] [AssistGPT](/AssistGPT)
 """
 )
